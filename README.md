@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Joey Sea! A front-end web developer based in Toronto, ON.
+### Hi there 👋 I'm Joey Sea! A front-end web developer based in Toronto, Canada.
 
 A bit about me:
 
@@ -6,7 +6,7 @@ A bit about me:
 
 🏦   Former Investment Specialist in the banking industry
 
-📚   Studied Business at the Wilfrid Laurier University
+📚   Studied Business at Wilfrid Laurier University
 
 🙋🏻‍♀️   she/her
 
