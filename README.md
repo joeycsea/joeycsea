@@ -2,7 +2,7 @@
 
 A bit about me:
 
-👩🏻‍💻   I am a web dev bootcamp student at Juno College
+👩🏻‍💻   I am a web dev bootcamp graduate at Juno College of Technology
 
 🏦   Former Investment Specialist in the banking industry
 
